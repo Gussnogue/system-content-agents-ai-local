@@ -1,0 +1,14 @@
+streamlit
+chromadb
+requests
+python-dotenv
+Pillow
+PyPDF2
+python-docx
+stable-diffusion-cpp-python
+plotly
+pandas
+einops
+beautifulsoup4
+langdetect
+python-docx
