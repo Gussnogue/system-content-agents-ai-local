@@ -174,9 +174,3 @@ system-content-agents-ai-local/
 *Nomic Embed Text v1.5 – Nomic AI*
 
 Frameworks e Bibliotecas: Streamlit, ChromaDB, python-docx, PyPDF2, BeautifulSoup, Plotly, pandas, langdetect, etc.
-
-# 📄 Licença
-
-MIT License – sinta‑se à vontade para usar, modificar e distribuir.
-
-🔗 Repositório: Gussnogue/system-content-agents-ai-local
